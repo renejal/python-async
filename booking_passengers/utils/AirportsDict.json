@@ -1,0 +1,45 @@
+{
+    "Colombia":
+    {"stations":[
+        {"name":"San Andrés","latitude":"123500N","longitude":"0814200W","iata_code":"ADZ","destinations":["BAQ","BGA","BOG","CIX","CLO","CTG","CUC","CUN","CUZ","LET","LIM","MCO","MDE","MEX","MIA","MTR","PEI","RCH","SMR","TPP"]},
+        {"name":"Barranquilla","latitude":"105346N","longitude":"0744644W","iata_code":"BAQ","destinations":["ADZ","BGA","BOG","CIX","CLO","CTG","CUC","CUN","CUZ","LET","LIM","MCO","MDE","MEX","MIA","MTR","PEI","RCH","SMR","TPP"]},
+        {"name":"Bucaramanga","latitude":"070626N","longitude":"0730741W","iata_code":"BGA","destinations":["ADZ","BAQ","BOG","CIX","CLO","CTG","CUC","CUN","CUZ","LET","LIM","MCO","MDE","MEX","MIA","MTR","PEI","RCH","SMR","TPP"]},
+        {"name":"Bogotá","latitude":"044200N","longitude":"0740900W","iata_code":"BOG","destinations":["ADZ","BAQ","BGA","CIX","CLO","CTG","CUC","CUN","CUZ","JUL","LET","LIM","MCO","MDE","MEX","MIA","MTR","PEI","RCH","SMR","TPP"]},
+        {"name":"Cali","latitude":"033246N","longitude":"0762306W","iata_code":"CLO","destinations":["ADZ","BAQ","BGA","BOG","CIX","CTG","CUC","CUN","CUZ","LET","LIM","MCO","MDE","MEX","MIA","MTR","PEI","RCH","SMR","TPP"]},
+        {"name":"Cartagena","latitude":"102648N","longitude":"0753039W","iata_code":"CTG","destinations":["ADZ","BAQ","BGA","BOG","CIX","CLO","CUC","CUN","CUZ","JUL","LET","LIM","MCO","MDE","MEX","MIA","MTR","PEI","RCH","SMR","TPP"]},
+        {"name":"Cúcuta","latitude":"075548N","longitude":"0723034W","iata_code":"CUC","destinations":["ADZ","BAQ","BGA","BOG","CIX","CLO","CTG","CUN","CUZ","LET","LIM","MCO","MDE","MEX","MIA","MTR","PEI","RCH","SMR","TPP"]},
+        {"name":"Leticia","latitude":"041147S","longitude":"0695622W","iata_code":"LET","destinations":["ADZ","BAQ","BGA","BOG","CLO","CTG","CUC","MDE","MTR","PEI","RCH","SMR"]},
+        {"name":"Medellín","latitude":"061315N","longitude":"0753535W","iata_code":"MDE","destinations":["ADZ","BAQ","BGA","BOG","CIX","CLO","CTG","CUC","CUN","CUZ","JUL","LET","LIM","MCO","MEX","MIA","MTR","PEI","RCH","SMR","TPP"]},
+        {"name":"Monteria","latitude":"084445N","longitude":"0755253W","iata_code":"MTR","destinations":["ADZ","BAQ","BGA","BOG","CIX","CLO","CTG","CUC","CUN","CUZ","LET","LIM","MCO","MDE","MEX","MIA","PEI","RCH","SMR","TPP"]},
+        {"name":"Pereira","latitude":"044855N","longitude":"0754432W","iata_code":"PEI","destinations":["ADZ","BAQ","BGA","BOG","CIX","CLO","CTG","CUC","CUZ","LET","LIM","MDE","MEX","MIA","MTR","RCH","SMR","TPP"]},
+        {"name":"Riohacha","latitude":"113145N","longitude":"0725528W","iata_code":"RCH","destinations":["ADZ","BAQ","BGA","BOG","CIX","CLO","CTG","CUC","CUZ","LET","LIM","MDE","MEX","MTR","PEI","SMR","TPP"]},
+        {"name":"Santa Marta","latitude":"110720N","longitude":"0741343W","iata_code":"SMR","destinations":["ADZ","BAQ","BGA","BOG","CIX","CLO","CTG","CUC","CUN","CUZ","LET","LIM","MCO","MDE","MEX","MIA","MTR","PEI","RCH","TPP"]}
+    ]},
+    "Peru":
+    {"stations":[
+        {"name":"Chiclayo","latitude":"064723S","longitude":"0794956W","iata_code":"CIX","destinations":["ADZ","BAQ","BGA","BOG","CLO","CTG","CUC","CUZ","JUL","LIM","MDE","MTR","PEI","RCH","SMR","TPP"]},
+        {"name":"Cuzco","latitude":"133146S","longitude":"0715735W","iata_code":"CUZ","destinations":["ADZ","BAQ","BGA","BOG","CIX","CLO","CTG","CUC","JUL","LIM","MDE","MTR","PEI","RCH","SMR","TPP"]},
+        {"name":"Juliaca","latitude":"152751S","longitude":"0700916W","iata_code":"JUL","destinations":["BOG","CIX","CTG","CUZ","LIM","MDE","TPP"]},
+        {"name":"Lima","latitude":"120136S","longitude":"0770722W","iata_code":"LIM","destinations":["ADZ","BAQ","BGA","BOG","CIX","CLO","CTG","CUC","CUN","CUZ","JUL","MCO","MDE","MEX","MIA","MTR","PEI","RCH","SMR","TPP"]},
+        {"name":"Tarapoto","latitude":"063040S","longitude":"0762355W","iata_code":"TPP","destinations":["ADZ","BAQ","BGA","BOG","CIX","CLO","CTG","CUC","CUZ","JUL","LIM","MDE","MTR","PEI","RCH","SMR"]},
+        {"name":"Moquegua","latitude":"063040S","longitude":"0762355W","iata_code":"ILQ","destinations":["ADZ","BAQ","BGA","BOG","CIX","CLO","CTG","CUC","CUZ","JUL","LIM","MDE","MTR","PEI","RCH","SMR"]},
+        {"name":"Arequipa","latitude":"162025S","longitude":"71340W","iata_code":"AQP","destinations":["ADZ","BAQ","BGA","BOG","CIX","CLO","CTG","CUC","CUZ","JUL","LIM","MDE","MTR","PEI","RCH","SMR"]}
+        ]
+    },
+    "Mexico":
+    {"stations":[
+        {"name":"Cancún","latitude":"210200N","longitude":"0865200W","iata_code":"CUN","destinations":["ADZ","BAQ","BGA","BOG","CLO","CTG","CUC","LIM","MCO","MDE","MEX","MIA","MTR","SMR"]},
+        {"name":"México","latitude":"192607N","longitude":"0990422W","iata_code":"MEX","destinations":["ADZ","BAQ","BGA","BOG","CLO","CTG","CUC","CUN","LIM","MCO","MDE","MIA","MTR","PEI","RCH","SMR"]},
+        {"name":"Monterrey","latitude":"192607N","longitude":"0990422W","iata_code":"MTY","destinations":["ADZ","BAQ","BGA","BOG","CLO","CTG","CUC","CUN","LIM","MCO","MDE","MIA","MTR","PEI","RCH","SMR"]},
+        {"name":"Acapulco","latitude":"192607N","longitude":"0990422W","iata_code":"ACA","destinations":["ADZ","BAQ","BGA","BOG","CLO","CTG","CUC","CUN","LIM","MCO","MDE","MIA","MTR","PEI","RCH","SMR"]},
+        {"name":"Culiacán","latitude":"174145S","longitude":"712035W","iata_code":"CUL","destinations":["ADZ","BAQ","BGA","BOG","CLO","CTG","CUC","CUN","LIM","MCO","MDE","MIA","MTR","PEI","RCH","SMR"]}
+        ]
+    },
+    "Estados Unidos":
+    {"stations":[
+        {"name":"Orlando","latitude":"282555N","longitude":"0811929W","iata_code":"MCO","destinations":["ADZ","BAQ","BGA","BOG","CLO","CTG","CUC","CUN","LIM","MDE","MEX","MIA","MTR","SMR"]},
+        {"name":"Miami","latitude":"254733N","longitude":"0801710W","iata_code":"MIA","destinations":["ADZ","BAQ","BGA","BOG","CLO","CTG","CUC","CUN","LIM","MCO","MDE","MEX","MTR","PEI","SMR"]}
+        ]
+    }
+
+}

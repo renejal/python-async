@@ -1,0 +1,3 @@
+backend-shared==2.13
+rules-engine==0.19
+navitaire-lib==0.0.5

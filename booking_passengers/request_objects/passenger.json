@@ -1,0 +1,52 @@
+{
+    "passengers":[
+        {
+            "name":"testA",
+            "last":"testA",
+            "type_document":"CC",
+            "document_number":"143344",
+            "gender": "M",
+            "country": "CO",
+            "expiration_date":"12/12/2010",
+            "email":"test.test@test.com",
+            "nacionality":"PE",
+            "phone":"2343453",
+            "seat": "C1",
+            "ssrs": "",
+            "child":"",
+            "infant":""
+        },
+        {
+            "name":"testB",
+            "last":"testA",
+            "type_document":"CC",
+            "document_number":"143344",
+            "gender": "M",
+            "country": "CO",
+            "expiration_date":"12/12/2010",
+            "email":"test.test@test.com",
+            "nacionality":"PE",
+            "phone":"234324",
+            "seat": "A2",
+            "ssrs": "",
+            "child":"",
+            "infant":""
+        },
+        {
+            "name":"testB",
+            "last":"testA",
+            "type_document":"CC",
+            "document_number":"143344",
+            "gender": "M",
+            "country": "CO",
+            "expiration_date":"12/12/2010",
+            "email":"test.test@test.com",
+            "nacionality":"PE",
+            "phone":"234523",
+            "seat": "B3",
+            "ssrs": "",
+            "child":"",
+            "infant":""
+        }
+    ]
+}
