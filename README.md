@@ -7,3 +7,7 @@
 response pokemon_aiohttp
 
 ![image](https://github.com/renejal/python-async/assets/40049733/0836edc3-b475-4625-bfb2-bb47c6784ba6)
+
+resposne pokemon_aiohttp_async
+
+![image](https://github.com/renejal/python-async/assets/40049733/fb6ce1df-d2be-47c7-9e59-d63dc32e360a)
